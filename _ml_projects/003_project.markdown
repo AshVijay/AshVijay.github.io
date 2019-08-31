@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project 4
+title: Siamese Twin Net
 description: another without an image
 img:
 ---
