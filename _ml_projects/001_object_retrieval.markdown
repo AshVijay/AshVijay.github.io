@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project 2
+title: Object
 description: a project with a background image
 img: /assets/img/2.jpg
 ---

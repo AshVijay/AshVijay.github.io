@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project 3
+title: USPS
 description: a project that redirects to another website
 img: /assets/img/recommender.jpg
 redirect: https://unsplash.com
