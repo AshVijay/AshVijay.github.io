@@ -20,8 +20,6 @@ include: ['_pages']
 exclude: [vendor]
 
 
-
-
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
@@ -34,7 +32,10 @@ medium_username: # your Medium username
 quora_username: # your Quora username
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  <a href="https://www.linkedin.com/in/ashwin-vijay-8a4699aa/"> Linkedin </a>
+  <a href="https://www.linkedin.com/in/ashwin-vijay-8a4699aa/">          </a>
+  <a href="https://www.linkedin.com/in/ashwin-vijay-8a4699aa/"> GitHub </a>
+  <a href="https://www.linkedin.com/in/ashwin-vijay-8a4699aa/"> Twitter </a>
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
@@ -58,11 +59,7 @@ news_limit: 5
 
 #-------------------------------
 # Experience
-
-
 #----------------------------
-
-
 
 # -----------------------------------------------------------------------------
 # Blog
@@ -87,6 +84,8 @@ disqus_shortname: al-folio # put your disqus shortname
 show_social_icons:  true
 enable_anchorjs:    false
 enable_katex:       true
+
+
 
 
 
